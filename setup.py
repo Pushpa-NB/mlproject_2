@@ -26,5 +26,4 @@ author_email = 'pushpa.nb.95@gmail.com',
 packages = find_packages(),
 install_requires = get_requirements('requirements.txt')
 
-
 )
